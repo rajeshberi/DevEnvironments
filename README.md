@@ -20,7 +20,7 @@ installation documentation](http://docs.vagrantup.com/v2/installation/).
 # Using Vagrant
 
 The Vagrantfile is setup to automatically download a VM image that already has
-the Systers mailman configured and already deployed. Make sure you cd into one
+the project configured and already deployed. Make sure you cd into one
 of the environments before running the commands below.
 
 ## Starting a VM
