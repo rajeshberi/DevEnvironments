@@ -9,7 +9,7 @@ This readme file details all Systers development environments for GSoC and open 
 1. Install VirtualBox by going to their [download
 page](https://www.virtualbox.org/wiki/Downloads).
 
-2. Install Vagrant
+2. Install Vagrant by going to their [download page](http://www.vagrantup.com/downloads.html).
 
 A [Vagrant](http://vagrantup.com/) file used for deploying an Ubuntu based development environments. Eeach VM is setup as the development instance of each server. If you need more help installing Vagrant, please take a look at [their
 installation documentation](http://docs.vagrantup.com/v2/installation/).
