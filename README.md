@@ -53,7 +53,8 @@ workstation outside the VM if you want.
     vagrant destroy
     vagrant up
 
-You can access your project web interface by going to http://localhost:8080/<project-hostname>
+You can access your project web interface by going to http://localhost:8080/project-hostname
+
 [http://localhost:8080/systers-autotest-dev](http://localhost:8080/systers-autotest-dev)
 in your browser.
 
