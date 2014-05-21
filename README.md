@@ -15,6 +15,7 @@ All projects will have the following environment setup unless otherwise specifie
 ## Server Sotware Version Details
 * Ubuntu 14.04 LTS (GNU/Linux 3.13.0-24-generic i686)
 * Apache 2.4.7
+* PHP 5.5.9
 * Ruby/Rails 2.1.2p95 
 * GEM 2.2.2
 * Phython/Django 2.7.6
