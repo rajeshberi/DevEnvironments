@@ -6,7 +6,7 @@ This readme file details all Systers development environments for GSoC and open 
 ## Project Specific Development Environment
 All projects will have the following environment setup unless otherwise specified.
 
-OS Ubuntu
+OS Ubuntu 
 Web Server - Apache
 Software/Application Framework - Python/Django (Ushahidi has platform and PHP)
 Database - PostgreSQL (Ushahidi has MySQL)
