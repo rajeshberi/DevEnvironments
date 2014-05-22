@@ -25,6 +25,20 @@ All projects will have the following environment setup unless otherwise specifie
 * PostgreSQL 9.3.4
 * Git 1.9.1
 
+## Configuration by Project
+
+### VMS & Portal
+Ubuntu/Apache/Python,Django/PostgreSQL
+
+### Ushahidi
+Ubuntu/Apache/PHP,Ushahidi/MySQL
+
+### PC Hub
+Ubuntu/Apache/Python,Django/PostgreSQL
+
+### Automated Testing
+Ubuntu/Apache/Selenium/PostgreSQL
+
 
 
 ## Setup
