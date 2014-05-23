@@ -28,17 +28,28 @@ All projects will have the following environment setup unless otherwise specifie
 ## Configuration by Project
 
 ### VMS & Portal
-Ubuntu/Apache/Python,Django/PostgreSQL
+* Ubuntu
+* Apache
+* Python, Django
+* PostgreSQL
 
 ### Ushahidi
-Ubuntu/Apache/PHP,Ushahidi/MySQL
+* Ubuntu
+* Apache
+* PHP, Ushahidi
+* MySQL
 
 ### PC Hub
-Ubuntu/Apache/Python,Django/PostgreSQL
+* Ubuntu
+* Apache
+* Python, Django
+* PostgreSQL
 
 ### Automated Testing
-Ubuntu/Apache/Selenium/PostgreSQL
-
+* Ubuntu
+* Apache
+* Python, Django
+* PostgreSQL
 
 
 ## Setup
