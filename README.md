@@ -38,6 +38,7 @@ All projects will have the following environment setup unless otherwise specifie
 * Apache
 * PHP, Ushahidi
 * MySQL
+
 Vagrant file located above in pc-ushahidi folder.
 
 ### PC Hub
@@ -45,6 +46,7 @@ Vagrant file located above in pc-ushahidi folder.
 * Apache
 * Python, Django
 * PostgreSQL
+
 Vagrant file located above in pc-web folder.
 
 ### Automated Testing
