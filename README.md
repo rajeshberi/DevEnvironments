@@ -38,12 +38,14 @@ All projects will have the following environment setup unless otherwise specifie
 * Apache
 * PHP, Ushahidi
 * MySQL
+Vagrant file located above in pc-ushahidi folder.
 
 ### PC Hub
 * Ubuntu
 * Apache
 * Python, Django
 * PostgreSQL
+Vagrant file located above in pc-web folder.
 
 ### Automated Testing
 * Ubuntu
@@ -70,6 +72,7 @@ The Vagrantfile is setup to automatically download a VM image that already has t
 
     `gem install vagrant`
 
+Note: You only need this step if you are on Windows or Mac machines. Linux does NOT require this step.
 
 ### Starting a VM
 
